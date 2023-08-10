@@ -1,1 +1,2 @@
-## Repository contains decks and other material from events
+## PowerPool Events
+Repository contains decks and other material from events
